@@ -1,4 +1,4 @@
-Code
+#
 import random
 
 # Pick a random number
